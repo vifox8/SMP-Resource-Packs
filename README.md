@@ -1,3 +1,6 @@
+Ресурс Пак был сделан специально для организации SMP Foundation (Secure. Maintain. Protect.). Любое копирование или адаптация запрещена.
+
+
 Установка:
 ![image](https://github.com/vifox8/SMP-Resource-Packs/assets/76491272/10dad9cb-2ca9-4be4-89fb-a6b57ee822de)
 
